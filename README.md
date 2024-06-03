@@ -15,7 +15,9 @@ All software and additional material is published here under the MIT license, wh
 means that you can freely use, copy, modify, distribute and sublicense everything you find here,
 with the only requirement that you must include the original copyright and license notice in 
 all copies or substantial portions of the software you distribute. This ensures proper attribution 
-and informs users about their rights.
+and informs users about their rights. 
+While all of our material is published under MIT license, we would of course greatly appreciate being  
+mentioned in your papers using our software and/or adapted annotation files. Thank you in advance!
 
 Keep in mind that this software and all associated material is provided "as is", without warranty 
 of any kind, express or implied. This means the licensor (the copyright holder) is not responsible 
